@@ -1,1 +1,6 @@
-/https://hotandwet.netlify.app/   /https://finddatinglives2.com/?u=1lxwrkw&o=0gep5b9
+[[redirects]]
+  from = "https://hotandwet.netlify.app/"
+  to = "https://finddatinglives2.com/?u=1lxwrkw&o=0gep5b9"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
